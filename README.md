@@ -49,3 +49,5 @@ PGM_86491 최소직사각형
 |완전탐색|LV1|최소직사각형|프로그래머스|https://school.programmers.co.kr/learn/courses/30/lessons/86491|
 |완전탐색|LV2|카펫|프로그래머스|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
 |완전탐색|LV2|전력망둘로나누기|프로그래머스|https://school.programmers.co.kr/learn/courses/30/lessons/86971|
+|완전탐색|LV2|소수찾기|프로그래머스|https://school.programmers.co.kr/learn/courses/30/lessons/42839|
+|완전탐색|LV2|피로도|프로그래머스|https://school.programmers.co.kr/learn/courses/30/lessons/87946|
