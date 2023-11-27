@@ -51,7 +51,7 @@ PGM_86491 최소직사각형
 - DP
 - 문자열/문자열 패턴 매칭
 - 분할 정복
-- 이진 탐색
+- ~~이진 탐색~~
 - ~~그리디~~
 - 백트레킹
 
@@ -78,3 +78,13 @@ PGM_86491 최소직사각형
 |  그리디  |  LV2   |   구명보트   | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42885 |
 |  그리디  |  LV3   | 섬 연결하기  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42861 |
 |  그리디  |  LV3   |  단속카메라  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42884 |
+
+### **< 3주차 : 본휘>** (2023.11.27 ~ 2023.12.01)
+
+| 알고리즘 | 난이도 |     제목     | 사이트       | URL                                                             |
+| :------: | :----: | :----------: | ------------ | --------------------------------------------------------------- |
+|  완전탐색  |  LV1   |   모의고사   | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42840 |
+|  완전탐색  |  LV2   | 모음사전 | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/84512 |
+|  그리디  |  LV1   |   체육복   | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
+|  이분탐색  |  LV3   | 입국심사  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/43238 |
+|  이분탐색  |  LV4   |  징검다리  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/43236 |
