@@ -79,7 +79,7 @@ PGM_86491 최소직사각형
 |  그리디  |  LV3   | 섬 연결하기  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42861 |
 |  그리디  |  LV3   |  단속카메라  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42884 |
 
-### **< 3주차 : 본휘>** (2023.11.27 ~ 2023.12.01)
+### **< 3주차 : 본휘>** (2023.11.27 ~ 2023.12.03)
 
 | 알고리즘 | 난이도 |     제목     | 사이트       | URL                                                             |
 | :------: | :----: | :----------: | ------------ | --------------------------------------------------------------- |
@@ -88,3 +88,13 @@ PGM_86491 최소직사각형
 |  그리디  |  LV1   |   체육복   | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
 |  이분탐색  |  LV3   | 입국심사  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/43238 |
 |  이분탐색  |  LV4   |  징검다리  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/43236 |
+
+### **< 4주차 : 본휘>** (2023.12.04 ~ 2023.12.10)
+
+| 알고리즘 | 난이도 |     제목     | 사이트       | URL                                                             |
+| :------: | :----: | :----------: | ------------ | --------------------------------------------------------------- |
+|  힙  |  LV2   |   더 맵게   | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42626 |
+|  힙  |  LV3   | 디스크 컨트롤러 | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 |
+|  힙  |  LV3   |   이중우선순위큐   | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42628 |
+|  해시  |  LV1   | 완주하지 못한 선수  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 |
+|  해시  |  LV1   |  폰켓몬  | 프로그래머스 | https://school.programmers.co.kr/learn/courses/30/lessons/1845 |
